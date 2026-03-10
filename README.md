@@ -25,6 +25,8 @@ pip install opencv-python numpy ultralytics
 # Task 1: Impact Frame Detection
 This task detects the **exact frame where the golf club strikes the ball**, defined as the moment when the ball first moves from its initial resting position. The detected frame is saved as an image.
 
+**Check Task_1/README.md for details of the execution.**
+
 ### Run the detector
 
 Run either of the following scripts:
@@ -38,12 +40,15 @@ or
 python Task_1/optimised_detector.py
 ```
 ### Output
-Output saved in: Task_1/output/impact_frame.png
+Output saved in: 
+Task_1/output/impact_frame.png
 The console will also print the detected frame index and runtime.
 
 ---
 # Task 2: 3D Point Reprojection
 This task reprojects given **3D points onto two camera views (Face-On and Down-the-Line)** using the provided camera calibration parameters.
+
+**Check Task_1/README.md for details of the execution.**
 
 ### Run the reprojection script
 ```Bash
