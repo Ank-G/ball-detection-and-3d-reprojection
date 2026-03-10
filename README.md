@@ -40,9 +40,8 @@ or
 python Task_1/optimised_detector.py
 ```
 ### Output
-Output saved in: 
-
-Task_1/output/impact_frame.png
+Output saved in: <br>
+Task_1/output/impact_frame.png <br>
 The console will also print the detected frame index and runtime.
 
 ---
@@ -58,9 +57,8 @@ python Task_2/3d_reprojection.py
 The script loads calibration parameters and projects the provided 3D points onto the corresponding video frames.
 
 ### Outputs
-Outputs saved in:
-
-Task_2/output/faceon_projected_points.mp4
+Outputs saved in: <br>
+Task_2/output/faceon_projected_points.mp4 <br>
 Task_2/output/downtheline_projected_points.mp4
 
 Each output video contains the projected 2D points drawn as red dots.
