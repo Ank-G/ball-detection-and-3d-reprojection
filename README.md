@@ -1,5 +1,5 @@
 
-# Computer Vision Technical Challenge
+# Ball Detection and 3D Reprojection
 
 This repository contains solutions for two computer vision tasks:
 
