@@ -41,6 +41,7 @@ python Task_1/optimised_detector.py
 ```
 ### Output
 Output saved in: 
+
 Task_1/output/impact_frame.png
 The console will also print the detected frame index and runtime.
 
@@ -58,6 +59,7 @@ The script loads calibration parameters and projects the provided 3D points onto
 
 ### Outputs
 Outputs saved in:
+
 Task_2/output/faceon_projected_points.mp4
 Task_2/output/downtheline_projected_points.mp4
 
