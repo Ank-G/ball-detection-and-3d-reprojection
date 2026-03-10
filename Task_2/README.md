@@ -21,10 +21,10 @@ This converts a 3D world coordinate into a 2D image coordinate using the camera 
 ## Camera Parameters Used
 The reprojection uses the following calibration parameters:
 
-- **K** – Camera intrinsic matrix
-- **R** – Camera rotation matrix
-- **T** – Camera translation vector
-- **DST** – Lens distortion coefficients
+- **K** - Camera intrinsic matrix
+- **R** - Camera rotation matrix
+- **T** - Camera translation vector
+- **DST** - Lens distortion coefficients
 
 The rotation matrix is converted to a rotation vector using: cv2.Rodrigues()
 
