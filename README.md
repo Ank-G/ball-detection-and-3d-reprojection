@@ -48,7 +48,7 @@ The console will also print the detected frame index and runtime.
 # Task 2: 3D Point Reprojection
 This task reprojects given **3D points onto two camera views (Face-On and Down-the-Line)** using the provided camera calibration parameters.
 
-**Check Task_1/README.md for details of the execution.**
+**Check Task_2/README.md for details of the execution.**
 
 ### Run the reprojection script
 ```Bash
