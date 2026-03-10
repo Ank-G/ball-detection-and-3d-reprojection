@@ -9,8 +9,8 @@ This repository contains solutions for two computer vision tasks:
 # Installation
 ## Clone repository
 ```Bash
-git clone <repo_url>
-cd <repo>
+git clone https://github.com/Ank-G/ball-detection-and-3d-reprojection.git
+cd ball-detection-and-3d-reprojection.git
 ```
 ## Create environment
 ```Bash
